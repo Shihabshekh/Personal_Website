@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 #name{
     font-size: 40px;
@@ -96,7 +97,7 @@ section{
     background-image: linear-gradient(90deg, rgb(23, 122, 161) ,rgba(0, 0, 255, 0.829));
     width: 21%;
     height: 10%;
-    margin-left: 500px;
+    margin-left: 525px;
     border-radius: 10px;
     color: white;
 }
@@ -106,7 +107,7 @@ section{
     background-size: cover;
     margin-top: 0%;
     background-repeat: no-repeat;
-    height: 700px;
+    height: 750px;
 }
 footer{
     text-align: center;
